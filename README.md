@@ -11,7 +11,7 @@ Event-based eye tracking holds significant promise for fine-grained cognitive st
 
 ## Citation
 
-If you find our work useful and/or use in your research work, including the methods, this repository and our dataset, please consider giving a star ⭐ and citing our paper.
+If you find our work useful and/or use in your research work, including the methods, please consider giving a star ⭐ and citing our paper.
 ```bibtex
 @misc{bandara2025inferencetimegazerefinementmicroexpression,
       title={Inference-Time Gaze Refinement for Micro-Expression Recognition: Enhancing Event-Based Eye Tracking with Motion-Aware Post-Processing}, 
